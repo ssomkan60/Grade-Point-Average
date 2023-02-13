@@ -1,3 +1,4 @@
+//https://app.patika.dev/ssomkan
 import java.util.Scanner;
 public class NotOrtOdev {
     public static void main(String[] args) {
